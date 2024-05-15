@@ -1,0 +1,6 @@
+.maindiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    backdrop-filter: blur(15px);
+}
